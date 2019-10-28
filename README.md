@@ -10,7 +10,7 @@ Step 3
 C:\Users\Your Name>cd "C:\Users\Your Name\Desired Folder"
 
 Step 4
-C:\Users\Your Name\Desired Folder copy *.csv combined.csv
+C:\Users\Your Name\Desired Folder copy *.csv Combined.csv
 
 Step 5
-combined.csv combined all the CSV files in Desired Folder.
+Combined.csv combined all the CSV files in Desired Folder.
